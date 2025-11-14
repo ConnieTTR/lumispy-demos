@@ -1,0 +1,92 @@
+Software version:ATTOLIGHT SE-CL Server 38.80b  (SMARPOD)
+Timestamp:2025-08-22 10:26:36:067
+_SITE IMAGE
+Reference Field of view:249.752 um
+Number of pixels (x axis):128 px
+Number of pixels (y axis):128 px
+Dwell Time:19999.999553 us
+stage_model:10010
+stage_position_x:1.554755
+stage_position_y:8.442944
+stage_position_z:0.860421
+stage_rotation_x:-0.0000
+stage_rotation_y:0.0000
+stage_rotation_z:0.0000
+_SEM
+Beam Energy:4988.40 V
+Gun Lens:1.085816 A
+Objective Lens:0.299048 A
+Aperture:50
+Blanker:Off
+Deflector 1 X:32.81 V
+Deflector 1 Y:52.43 V
+Deflector 2 X:-0.01 V
+Deflector 2 Y:-0.01 V
+Astigmatism 1 X:-0.01 V
+Astigmatism 1 Y:0.00 V
+Astigmatism 2 X:18.43 V
+Astigmatism 2 Y:-21.06 V
+Isolation Valve:Opened
+Emission Status:ON
+Scintillator Voltage:6004.00 V
+Beam Current:1.77 uA
+Emission Current:124.00 uA
+Cathode Heating Current:2.21 A
+Cathode Heating Voltage:1.88 V
+Suppressor Bias:1001.15 V
+Extractor Voltage:4972.56 V
+Gun Chamber Pressure:1.7026e-10 Torr
+Aperture Chamber Pressure:8.3257e-08 Torr
+Attomic zoom:7
+Attomic ReadedMagnification:384.000000
+Real Magnification:524.808655
+Reference Screen Size:131.072000 mm
+Reference Field of view:249.752 um
+_CHANNELS
+Channel1:SE
+Channel2:CCD
+_CCD
+Camera Model:A.920
+Horizontal Binning:1
+Temperature:-69 °C
+Signal Amplification:x1
+Baseline Clamp:Off
+Readout Rate (horizontal pixel shift):1Mhz
+Speed (vertical pixel shift):3.300000
+Voltage Amplitude (vertical pixel shift):normal
+ReadMode:FVB
+Exposure Time:000.020000 s
+Capture Depth:1024
+Pixel Width: 0.02600 mm
+_SPECTROMETER
+Turret:IHR 320
+Turret id:0
+Grating:150/500
+Grating - Groove Density:150 gr/mm
+Grating - Blaze Angle:0
+Central wavelength:450.00 nm
+Entrance slit width:7000 um
+Exit slit width:0 um
+Exit spectral resolution:0 nm
+Exit mirror position:lateral
+central shift:10.940 nm
+Spectrometer Focal Length:319.76001 mm
+Camera Tilt Angle:2.890000 deg
+Ebert Angle:-9.800000 deg
+Filter:None
+_SCAN
+Mode Image:HYP
+HYP Scan Dwelltime:20.000000 ms
+Resolution_X:128 pixels
+Resolution_Y:128 pixels
+Reference_Size_X:512
+Reference_Size_Y:512
+Voltage Calibration Range_X:8.661794 V
+Voltage Calibration Range_Y:8.661794 V
+Start_X:0
+Size_X:512
+Start_Y:0
+Size_Y:512
+Rotate:0.000000 deg
+InitialRotate:339.220001 deg
+[MEM Phys used: 34% - free: 21425 MB] [MEM paging free: 18657 MB]
